@@ -1,0 +1,74 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Quicksand", sans-serif;
+}
+
+.btnClass{
+    background-color: #FE8C45;
+    border: none;
+    padding: 5px 25px;
+    border-radius: 40px;
+    color: white;
+    font-weight:300;
+    font-size: 14px;
+
+}
+
+.fontStyle{
+    font-size: 65px;
+    font-weight: 900;
+}
+
+.fontStyle2{
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.lineStyle{
+    width: 90px;
+    height: 15px;
+    background-color: #8A47F6;
+    border-radius: 40px;
+    position: absolute;
+    bottom:12% ;
+    left: 45%;
+    
+}
+
+.singleColor{
+    color:#8A47F6 ;
+
+}
+
+.skillPhoto{
+
+    background-color: #8a47f656;
+}
+
+.imageStyle{
+    width: 100%;
+}
+
+.clentSay{
+    width: 180px;
+    height: 40px;
+    background-color: #8a47f656;
+    
+    
+}
+.testomonial{
+    background-color: #65508756;
+}
+.arrowStyle{
+    width: 30px;
+    height: 30px;
+    padding: 8px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
